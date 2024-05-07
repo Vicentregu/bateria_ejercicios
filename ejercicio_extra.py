@@ -1,5 +1,5 @@
 """
-Definir una función que dada una lista,
+definir una función que dada una lista,
 retorne los elementos unicos de la lista:
 
 Ej:
